@@ -10,6 +10,7 @@ sudo apt-get install git-core -y
 sudo apt-get install curl -y
 sudo apt-get install valgrind -y
 sudo apt-get install gdb -y
+sudo apt-get install pkg-config -y
 
 # Editors
 sudo apt-get install arduino arduino-mk -y
